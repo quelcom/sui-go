@@ -58,8 +58,8 @@ Run `make help` for information on linting, tests, etc.
 
 - [SUI](https://github.com/jeroenpardon/sui) For the great startpage template
 - [wttr.in](https://github.com/chubin/wttr.in) For the weather info
-- [go-toml](github.com/pelletier/go-toml) TOML parsing
-- [gjson](github.com/tidwall/gjson) JSON parsing
+- [go-toml](https://github.com/pelletier/go-toml) TOML parsing
+- [gjson](https://github.com/tidwall/gjson) JSON parsing
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
