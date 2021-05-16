@@ -1,0 +1,31 @@
+name = "Gopher"
+port = 3000
+
+[[app]]
+name = "Bitwarden"
+url = "https://bitwarden.mydomain.com"
+icon = "shield-half-full"
+
+[[app]]
+name = "Pi-hole"
+url = "https://pihole.mydomain.com"
+icon = "pi-hole"
+
+[[group]]
+name = "Random"
+[[group.links]]
+name = "Google"
+url = "https://google.com"
+[[group.links]]
+name = "Youtube"
+url = "https://youtube.com"
+
+[[provider]]
+name = "Allmusic"
+url = "https://www.allmusic.com/search/all/"
+prefix = "/a"
+
+[[provider]]
+name = "Discogs"
+url = "https://www.discogs.com/search/all/"
+prefix = "/di"
